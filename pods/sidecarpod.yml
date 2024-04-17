@@ -24,7 +24,7 @@ spec:
     - name: GIT_SYNC_REPO
       value: git@github.com:CoolYone/TheK8sBook.git
     - name: GIT_SYNC_BRANCH
-      value: main
+      value: master
     - name: GIT_SYNC_DEPTH
       value: "1"
     - name: GIT_SYNC_DEST
